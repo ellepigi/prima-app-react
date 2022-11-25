@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.container button {
+    margin-left: 10px;
+}
+
+li button{
+   margin-left: 10px;
+}
+
